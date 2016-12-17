@@ -1,6 +1,7 @@
 
 <script type="text/javascript">
-document.write("<h1>ÕâÊÇ±êÌâ</h1>");
-document.write("<p>ÕâÊÇ¶ÎÂä¡£</p>");
-document.write("<p>ÕâÊÇÁíÒ»¸ö¶ÎÂä¡£</p>");
+document.write("<h1>è¿™æ˜¯æ ‡é¢˜</h1>");
+document.write("<p>è¿™æ˜¯æ®µè½ã€‚</p>");
+document.write("<p>è¿™æ˜¯å¦ä¸€ä¸ªæ®µè½ã€‚</p>");
+document.write("<p>qsdagasdgasdg</p>");
 </script>
